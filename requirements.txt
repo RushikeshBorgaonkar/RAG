@@ -1,0 +1,5 @@
+faiss-cpu 
+requests 
+sentence-transformers 
+python-dotenv
+psycopg2
