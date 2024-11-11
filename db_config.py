@@ -1,7 +1,7 @@
 import os
 from dotenv import load_dotenv
 import psycopg2
-from psycopg2.extras import execute_values
+# from psycopg2.extras import execute_values
 import numpy as np
 
 # Load environment variables
